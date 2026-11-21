@@ -1,2 +1,5 @@
 # tugas-project-uts
 project 
+NAMA  :MUHAMMAD IMANUL QOLBI
+NIM : 14012500127
+KELAS : 3A
